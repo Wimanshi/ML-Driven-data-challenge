@@ -23,3 +23,5 @@ Github link :- https://github.com/Wimanshi/ML-Driven-data-challenge.git
 ### This is the model I used here,
 ### model = CatBoostClassifier(iterations=1000, learning_rate=0.1, depth=5, loss_function='MultiClass')
 
+## Submission
+![Screenshot (86)](https://user-images.githubusercontent.com/47114903/133835895-22cb4809-03e9-4dcd-8afb-0837d7926d09.png)
